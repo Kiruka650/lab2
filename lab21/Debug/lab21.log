@@ -1,0 +1,4 @@
+﻿  lab21.cpp
+C:\Users\Kiruka\source\repos\lab21\lab21\lab21.cpp(14,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Kiruka\source\repos\lab21\lab21\lab21.cpp(24,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab21.vcxproj -> C:\Users\Kiruka\source\repos\lab21\Debug\lab21.exe

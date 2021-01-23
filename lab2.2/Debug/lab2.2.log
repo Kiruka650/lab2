@@ -1,0 +1,13 @@
+﻿  lab2.2.cpp
+C:\Users\Kiruka\source\repos\lab2.2\lab2.2\lab2.2.cpp(68,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Kiruka\source\repos\lab2.2\lab2.2\lab2.2.cpp(80,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Kiruka\source\repos\lab2.2\lab2.2\lab2.2.cpp(95,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Kiruka\source\repos\lab2.2\lab2.2\lab2.2.cpp(118,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Kiruka\source\repos\lab2.2\lab2.2\lab2.2.cpp(132,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Kiruka\source\repos\lab2.2\lab2.2\lab2.2.cpp(148,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Kiruka\source\repos\lab2.2\lab2.2\lab2.2.cpp(167,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Kiruka\source\repos\lab2.2\lab2.2\lab2.2.cpp(187,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Kiruka\source\repos\lab2.2\lab2.2\lab2.2.cpp(199,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Kiruka\source\repos\lab2.2\lab2.2\lab2.2.cpp(211,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Kiruka\source\repos\lab2.2\lab2.2\lab2.2.cpp(225,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab2.2.vcxproj -> C:\Users\Kiruka\source\repos\lab2.2\Debug\lab2.2.exe
